@@ -48,4 +48,4 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ## Acknowledgments
 
-Thank you [Rustcode](https://www.youtube.com/c/Rustcode). Your video helped me figure out to position the profile image :)
+Thank you [Rustcode](https://www.youtube.com/c/Rustcode). Your video helped me figure out how to position the profile image :)
